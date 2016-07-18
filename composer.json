@@ -1,0 +1,17 @@
+{
+    "name": "carolosf/monster-demo",
+    "authors": [
+        {
+            "name": "Carolos Foscolos"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "": "tests/" }
+    },
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
